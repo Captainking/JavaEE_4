@@ -5,7 +5,7 @@
 
 1.测试用jsp文件直接放在工程目录下
 
-2.jsp转化后的servler(****_jsp.java)以及编译后的****_jsp.class放在了lib文件夹内
+2.jsp转化后的servler(XXXX_jsp.java)以及编译后的XXXX_jsp.class放在了lib文件夹内
 
 3.测试端口号:3030.例如http://localhost:3030/test_1.jsp
 
